@@ -38,8 +38,8 @@ This dataset contains the hourly and daily count of rental bikes between years 2
 ## Jupyter Notebook
 (May need a minute to load fully)
 
-<img src="https://github.com/CaroKr000/Bike-Sharing/blob/master/readme_pictures/1.png?raw=true" width=fill>
 <img src="https://github.com/CaroKr000/Bike-Sharing/blob/master/readme_pictures/2.png?raw=true" width=fill>
+<img src="https://github.com/CaroKr000/Bike-Sharing/blob/master/readme_pictures/1.png?raw=true" width=fill>
 
 ## License
 The License is a general MIT license. Please see the LICENSE.rtf file as an additional reference.
