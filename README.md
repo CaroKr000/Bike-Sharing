@@ -11,7 +11,7 @@ Apart from interesting real-world applications of bike sharing systems, the char
 This dataset contains the hourly and daily count of rental bikes between years 2011 and 2012 in Capital bikeshare system in Washington, DC with the corresponding weather and seasonal information.
 
 
-Features provided in the dataset:
+### Features provided by the dataset:
 
 - *instant*: Record index
 - *dteday*: Date
@@ -38,9 +38,10 @@ Features provided in the dataset:
 ## Jupyter Notebook
 (May need a minute to load fully)
 
-
+<img src="https://github.com/CaroKr000/Bike-Sharing/blob/master/readme_pictures/1.png?raw=true" width=fill>
+<img src="https://github.com/CaroKr000/Bike-Sharing/blob/master/readme_pictures/2.png?raw=true" width=fill>
 
 ## License
-The License is a general MIT license. Please see the LICENSE.rtf file in the Python_Project Folder as an additional reference.
+The License is a general MIT license. Please see the LICENSE.rtf file as an additional reference.
 
 This work is a joint project by Duarte Costa, Alejandro Fernandez, Aksel Husebo, Carolin Kroeger, Moritz Steinbrecher, Yegnesh Sundar, Karel Van Cauwenberge, during the IE Master in Big Data and Business Analytics.
