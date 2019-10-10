@@ -1,6 +1,6 @@
 # Bike Sharing Analysis
 
-> Kaggle Competition Link [here](https://www.kaggle.com/marklvl/bike-sharing-dataset/download)
+> Kaggle Competition Link [here](https://www.kaggle.com/marklvl/bike-sharing-dataset/home)
 
 #### Context
 
